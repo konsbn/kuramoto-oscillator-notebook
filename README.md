@@ -1,1 +1,2 @@
-# kuramoto-oscillator-notebook
+# kuramoto oscillator notebook
+I have been working on the kuramoto oscillators for my summer project and I found a dearth of resources in python for simulation and analysis so I have created a crude sort of reference code for anyone starting out in this field. I have optimized the code to the best I can (probably).  Although if any of you make it faster it'll be a huge help to me. The code is poorly documented maybe when I get a bit of time and an OCD attack I'll do it.
